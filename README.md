@@ -1,11 +1,3 @@
-Here’s a clean GitHub Profile README.md based on your resume, keeping it focused on your backend experience and explicitly mentioning that you are learning Spring Boot and building a billing service. The content is grounded in the uploaded resume.
-
-Syed Kaleemullah Resume UAE.docx
-
-Document
-
-Edit
-
 # Hi, I'm Syed Kaleemullah
 
 **Senior Backend Engineer | Java | Billing & Subscription Systems**
