@@ -40,7 +40,7 @@ AWS (basic)
 
 I am currently **learning Spring Boot in depth** and building a **Billing Service** as a hands-on project to strengthen my understanding of:
 
-* Spring Boot 3
+* Spring Boot
 
 * RESTful API design
 
@@ -60,15 +60,13 @@ This project is focused on modeling a **real-world subscription billing backend*
 
 ### Billing Service *(In Progress)*
 
-A Spring Boot backend for subscription billing and invoicing.
+A Spring Boot backend for subscription. The goal is to learn the tech stack using a familiar domain.
 
 **Planned features**
 
 * Customer & subscription management
 
-* Invoice generation
-
-* Usage-based billing support
+* Invoice generation 
 
 * Dunning & retry workflows
 
@@ -112,7 +110,7 @@ Key areas:
 
 * **Hexagonal / Clean Architecture**
 
-* **Event-driven microservices**
+* **Event-driven Platform architecture**
 
 * **PostgreSQL advanced features**
 
@@ -124,7 +122,7 @@ Key areas:
 
 ## GitHub Goals
 
-This GitHub profile is where I’m documenting my transition from primarily **enterprise product development** to building **public backend projects** focused on **Spring Boot and billing systems**.
+This GitHub profile is where I’m documenting **public backend projects** focused on **Spring Boot and scalable backend systems**.
 
 Expect to see:
 
@@ -140,6 +138,4 @@ Expect to see:
 
 * Architecture notes and design decisions
 
----
-
-> *Learning in public: building a Spring Boot Billing Service while applying lessons from real-world subscription and invoicing systems.*
+-----
