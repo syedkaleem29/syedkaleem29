@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Java | Billing & Subscription Systems**
 
-Chennai, India • Open to relocation: **UAE (Dubai / Abu Dhabi)**
+Chennai, India.
 
 I have **8+ years of backend engineering experience at Zoho**, working on large-scale **billing, subscription lifecycle management, payment integrations, invoicing, dunning automation, and event-driven systems**.
 
